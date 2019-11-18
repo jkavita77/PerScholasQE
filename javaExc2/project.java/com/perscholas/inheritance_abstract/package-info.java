@@ -1,0 +1,1 @@
+package com.perscholas.inheritance_abstract;
